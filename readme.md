@@ -1,6 +1,5 @@
 # 版本更新，修改，移植说明文档
 ## 参考资料
-	http://www.pudn.com/Download/item/id/1437854.html
 	https://wenku.baidu.com/view/b4fd8a5abe23482fb4da4c20.html
 	https://wenku.baidu.com/view/6a11e20c76c66137ee0619e0.html
 	https://wenku.baidu.com/view/4e14f06aaf1ffc4ffe47ac2b.html
