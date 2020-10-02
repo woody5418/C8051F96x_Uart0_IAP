@@ -1,5 +1,5 @@
 # 版本更新，修改，移植说明文档
-####参考资料
+## 参考资料
 	http://www.pudn.com/Download/item/id/1437854.html
 	https://wenku.baidu.com/view/b4fd8a5abe23482fb4da4c20.html
 	https://wenku.baidu.com/view/6a11e20c76c66137ee0619e0.html
@@ -22,7 +22,7 @@
 
 	升级功能开始以后先把代码存储到user2 然后再存储到user1
 	
-#### 说明: 
+### 说明: 
 
 Application 代码bin文件生成方法：
 复制文件夹<bin工具>里面的2个文件 放到Keil C51/BIN的路径下"D:\KeilC51\C51\BIN"
@@ -44,7 +44,7 @@ void run_Bootloader(void)
 }
 也可以使用软件复位直接跳转到boot
 #define Rst_CPU RSTSRC |= 0x30 			//软件复位
-#### 版本号 V1.0
+### 版本号 V1.0
 
 	作    者 ：woody
 	联系方式 ：QQ 2490006131
