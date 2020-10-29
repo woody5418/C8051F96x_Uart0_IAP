@@ -8,10 +8,10 @@
 * 当前版本： V1.0
 * 作    者： woody   QQ：2490006131
 * 完成日期： 2020.09.30
-*	< STM32L151ZET6 >
-			FLASH SIZE	:512Kbytes
-			RAM SIZE	:80Kbytes
-			EEPROM  	:16K
+*	< C8051F964 >  
+			FLASH SIZE	:64Kbytes
+			RAM SIZE	: Kbytes
+			EEPROM  	: K
 * 修改记录1：
 *    修改日期：
 *    版 本 号：
