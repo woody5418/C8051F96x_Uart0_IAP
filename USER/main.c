@@ -12,6 +12,7 @@
 			FLASH SIZE	:64Kbytes
 			RAM SIZE	: Kbytes
 			EEPROM  	: K
+			
 * 修改记录1：
 *    修改日期：
 *    版 本 号：
